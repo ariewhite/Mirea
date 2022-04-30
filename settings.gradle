@@ -16,3 +16,8 @@ rootProject.name = "Mirea"
 include ':app'
 include ':app:module1'
 include ':clickbuttons'
+include ':app:module2'
+include ':app:module2:lifecycleactivity'
+include ':app:module2:multiactivity'
+include ':app:module2:intentfilter'
+include ':app:module2:toastapp'

@@ -12,6 +12,11 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/app/module1" />
+            <option value="$PROJECT_DIR$/app/module2" />
+            <option value="$PROJECT_DIR$/app/module2/intentfilter" />
+            <option value="$PROJECT_DIR$/app/module2/lifecycleactivity" />
+            <option value="$PROJECT_DIR$/app/module2/multiactivity" />
+            <option value="$PROJECT_DIR$/app/module2/toastapp" />
             <option value="$PROJECT_DIR$/clickbuttons" />
           </set>
         </option>
