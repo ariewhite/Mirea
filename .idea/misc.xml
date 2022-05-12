@@ -17,6 +17,17 @@
         <entry key="..\:/Android/Mirea/app/module2/multiactivity/src/main/res/layout/content_second.xml" value="0.209375" />
         <entry key="..\:/Android/Mirea/app/module2/notificationapp/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Android/Mirea/app/module2/toastapp/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/Android/Mirea/app/module3/intentapp/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/Android/Mirea/app/module3/intentapp/src/main/res/layout/second_activity.xml" value="0.33" />
+        <entry key="..\:/Android/Mirea/app/module3/resultactivity/src/main/res/layout/activity_data.xml" value="0.25" />
+        <entry key="..\:/Android/Mirea/app/module3/resultactivity/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Android/Mirea/app/module3/share/src/main/res/layout/activity_main.xml" value="0.1953125" />
+        <entry key="..\:/Android/Mirea/app/module3/simplefragmentapp/src/main/res/layout-land/activity_main.xml" value="0.34375" />
+        <entry key="..\:/Android/Mirea/app/module3/simplefragmentapp/src/main/res/layout/activity_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Android/Mirea/app/module3/simplefragmentapp/src/main/res/layout/fragment_1.xml" value="0.19722222222222222" />
+        <entry key="..\:/Android/Mirea/app/module3/simplefragmentapp/src/main/res/layout/fragment_2.xml" value="0.1953125" />
+        <entry key="..\:/Android/Mirea/app/module3/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/Android/Mirea/app/module3/systemintentsapp/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Android/Mirea/app/src/main/res/layout/activity_main.xml" value="0.209375" />
         <entry key="..\:/Android/Mirea/clickbuttons/src/main/res/layout/activity_main.xml" value="0.25" />
       </map>

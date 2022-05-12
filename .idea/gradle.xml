@@ -20,6 +20,11 @@
             <option value="$PROJECT_DIR$/app/module2/notificationapp" />
             <option value="$PROJECT_DIR$/app/module2/toastapp" />
             <option value="$PROJECT_DIR$/app/module3" />
+            <option value="$PROJECT_DIR$/app/module3/intentapp" />
+            <option value="$PROJECT_DIR$/app/module3/resultactivity" />
+            <option value="$PROJECT_DIR$/app/module3/share" />
+            <option value="$PROJECT_DIR$/app/module3/simplefragmentapp" />
+            <option value="$PROJECT_DIR$/app/module3/systemintentsapp" />
             <option value="$PROJECT_DIR$/clickbuttons" />
           </set>
         </option>
