@@ -31,6 +31,10 @@
             <option value="$PROJECT_DIR$/app/module4/looper" />
             <option value="$PROJECT_DIR$/app/module4/thread" />
             <option value="$PROJECT_DIR$/app/module4/wormanager" />
+            <option value="$PROJECT_DIR$/app/module5" />
+            <option value="$PROJECT_DIR$/app/module5/accelerometr" />
+            <option value="$PROJECT_DIR$/app/module5/audiorecord" />
+            <option value="$PROJECT_DIR$/app/module5/camera" />
             <option value="$PROJECT_DIR$/clickbuttons" />
           </set>
         </option>
