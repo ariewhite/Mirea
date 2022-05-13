@@ -25,6 +25,12 @@
             <option value="$PROJECT_DIR$/app/module3/share" />
             <option value="$PROJECT_DIR$/app/module3/simplefragmentapp" />
             <option value="$PROJECT_DIR$/app/module3/systemintentsapp" />
+            <option value="$PROJECT_DIR$/app/module4" />
+            <option value="$PROJECT_DIR$/app/module4/data_thread" />
+            <option value="$PROJECT_DIR$/app/module4/loadermanger" />
+            <option value="$PROJECT_DIR$/app/module4/looper" />
+            <option value="$PROJECT_DIR$/app/module4/thread" />
+            <option value="$PROJECT_DIR$/app/module4/wormanager" />
             <option value="$PROJECT_DIR$/clickbuttons" />
           </set>
         </option>
